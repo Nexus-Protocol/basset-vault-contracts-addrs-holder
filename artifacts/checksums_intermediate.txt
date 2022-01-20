@@ -1,0 +1,1 @@
+f19d74a3667aaad3559ce60a72f53d005b763d23eccf7efbf4116d29c1598a1a  ./target/wasm32-unknown-unknown/release/basset_vault_contracts_addrs_holder.wasm

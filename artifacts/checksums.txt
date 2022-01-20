@@ -1,0 +1,1 @@
+14a1a2e6cec75f5c7221d99793ac18d96735ae5dcd67fb09de6e41c831e70149  basset_vault_contracts_addrs_holder.wasm
